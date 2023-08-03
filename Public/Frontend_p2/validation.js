@@ -55,13 +55,4 @@ document.addEventListener('DOMContentLoaded', function() {
       // Append the review element to the review list container
       reviewList.appendChild(reviewElement);
     });
-
-
-
-
-
-
-
-
-
   });

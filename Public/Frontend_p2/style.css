@@ -5,7 +5,7 @@ body{
 
 }
 .review{
-    border: 1px solid #ccc;
+    border: 1px solid #36b8af;
   padding: 10px;
   margin-bottom: 10px;
 
@@ -19,8 +19,8 @@ body{
 #review-form {
     margin: 20px;
     padding: 20px;
-    border: 1px solid #ddd;
-    background-color: #f9f9f9;
+    border: 1px solid #d48f8f;
+    background-color: #b42626;
     border-radius: 5px;
   }
   
@@ -38,7 +38,7 @@ body{
     width: 100%;
     padding: 5px;
     margin-bottom: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #ed6f6f;
     border-radius: 3px;
   }
   
@@ -47,7 +47,7 @@ body{
   }
   
   #review-form button {
-    background-color: #007bff;
+    background-color: #ee12d8;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -56,5 +56,5 @@ body{
   }
   
   #review-form button:hover {
-    background-color: #0056b3;
+    background-color: #d48207;
   }

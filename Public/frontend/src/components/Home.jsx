@@ -145,7 +145,7 @@ console.log(filters);
   console.log(data);
   setReview(data.response.feedback)
   console.log(data.response.total);
-setPagelimit(data.response.total);
+  setPagelimit(data.response.total);
   setSearchname("");
 }
 const resetall=()=>{

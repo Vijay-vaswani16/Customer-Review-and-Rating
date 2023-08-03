@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(211, 128, 20);
+  background-color: rgb(223, 57, 57);
 }
 
 code {
@@ -15,7 +15,7 @@ code {
 
 
 .landing-page{
-  background: white url("https://i.pinimg.com/originals/cf/6e/15/cf6e158d82c6a07d53f8408bbe4beda4.png") no-repeat scroll center;
+  background: white url("https://th.bing.com/th/id/OIP.80KG9cXzKm11ZE9PgHG-QgHaFC?w=271&h=185&c=7&r=0&o=5&dpr=1.3&pid=1.7") no-repeat scroll center;
   background-size: cover;
   height: 100vh;
   color: #c8cfcf;
@@ -32,22 +32,22 @@ code {
 }
 
 .bg-111{
-  background-image: linear-gradient(to right, #189AB4 ,#a4c2e0);
+  background-image: linear-gradient(to right, #ec4111 ,#e0a7a4);
 }
 .bg-11{
-  background-image: linear-gradient(to bottom, #5bb4c6 ,#a4c2e0,#5bb4c6); 
+  background-image: linear-gradient(to bottom, #c6725b ,#e0a4a4,#c65b5b); 
 }
 .bg-1{
-  background-image: linear-gradient(to top, #5bb4c6 ,#a4c2e0); 
+  background-image: linear-gradient(to top, #c6605b ,#e0a4a4); 
 
   
 }
 .bg-113{
 
-  background-color: #189AB4;
+  background-color: #b41818;
 }
 #notify{
-  color: rgb(103, 103, 178);
+  color: rgb(178, 103, 103);
   background-color: rgb(232, 219, 245);
   width: 15rem;
   margin: auto;
@@ -57,7 +57,7 @@ code {
   
 }
 .bg-nav{
-  background-color: #08687c;;
+  background-color: #7c0808;;
 }
 
 @keyframes come-from-above{
